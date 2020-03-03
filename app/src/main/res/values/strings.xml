@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="translate_progress">Translating....</string>
+    <string name="unknown_error">Unknown error occured</string>
+    <string name="app_name">LanguageTranslator</string>
+    <string name="translated_text_hint">Translated text</string>
+
+</resources>
